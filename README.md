@@ -1,4 +1,4 @@
-* * * Programa simples que renderiza uma nave na tela. * * *
+### Programa simples que renderiza uma nave na tela. ###
 
 O jogador pode controlar a nave com os botões:
 [W] Cima
